@@ -1,0 +1,7 @@
+print("我喜欢" + "Java")
+print("我喜欢", "Java")
+print()
+print("我喜欢")
+print("Java")
+print("我喜欢", end='')
+print("Java")
